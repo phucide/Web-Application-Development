@@ -5,10 +5,12 @@ Today, the world is developing rapidly after the 4.0 revolution - the revolution
 However, in order for a service to become popular and widely used by users, many factors must be considered, especially about E-commerce services through shopping online. And for a shop manager to be able to manage products, customers and orders is an extremely important factor.
 
 That's why our team made a simple website for a shopping online system. This web will assist the storekeeper in managing customers' information, and products as well as allowing them to perform tasks such as updating products,  ordering, and confirming orders. With the hope that this website is somewhat helpful in managing customer accounts and products, our goal is to construct a website where the flow of information is transparent enough for appropriate internal administration.
+
 ## 1.2. Problem Statement:
 Handling personnel information manually presents a variety of issues. This is visible in procedures like order management, where a store manager must manually record the items ordered by the customer. The usage of paperwork in some of these procedures may result in human mistakes, papers may wind up in the wrong hands, and not to mention that it is time demanding. Customer self-service is lacking in some existing systems, which implies that customers cannot access and follow their personal information without going to the nearest store. 
 
-Building and installing a shopping online system can handle the aforementioned concerns. This solution will keep the customer's information and only allow authorized users access to it. The project's purpose is to create a system that contains customer information and products to help administrators monitor customers’ accounts and ord
+Building and installing a shopping online system can handle the aforementioned concerns. This solution will keep the customer's information and only allow authorized users access to it. The project's purpose is to create a system that contains customer information and products to help administrators monitor customers’ accounts and orders.
+
 ## 1.3. Scope:
 The scope of this project will be limited to the following:
 
@@ -20,7 +22,10 @@ The scope of this project will be limited to the following:
 # 2. DATABASE DESIGN
 ## 2.1. Similar Application/System
 The platform is referenced by the design and function of famous websites such as Amazon, eBay, Shopee,…
+
 ## 2.2. Platform and Tool Review
 Programming language: HTML/ CSS/ Java Script
+
 Database management system: MySQL to export and import database
+
 Tools: Visual Studio Code, GitHub to publish the team’s codes
