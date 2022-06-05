@@ -98,4 +98,8 @@ The users can click to the image of the products or search the products by name 
 4. Develop a dilivery system inside the shopping website.
 
 # 6. References
+- [https://www.slideshare.net/gajapandiyan/online-shopping-16603063?fbclid=IwAR3DcQdVadUk5YkaKOMceum5gyMw0HMs02IG2yZx2RDoEsJWL6cG_J7BsYs](https://www.slideshare.net/gajapandiyan/online-shopping-16603063?fbclid=IwAR3DcQdVadUk5YkaKOMceum5gyMw0HMs02IG2yZx2RDoEsJWL6cG_J7BsYs)
+- [https://core.ac.uk/download/pdf/5165156.pdf?fbclid=IwAR3RcbA0Hp41AuWzNVWAtLM1eWXjmjwvnRIrngihqjv6pZVk-esGYubKGRI](https://core.ac.uk/download/pdf/5165156.pdf?fbclid=IwAR3RcbA0Hp41AuWzNVWAtLM1eWXjmjwvnRIrngihqjv6pZVk-esGYubKGRI)
+- [https://projectsinventory.com/functional-requirement-of-online-shopping-system/?fbclid=IwAR3DcQdVadUk5YkaKOMceum5gyMw0HMs02IG2yZx2RDoEsJWL6cG_J7BsYs](https://projectsinventory.com/functional-requirement-of-online-shopping-system/?fbclid=IwAR3DcQdVadUk5YkaKOMceum5gyMw0HMs02IG2yZx2RDoEsJWL6cG_J7BsYs)
+- [https://kipalog.com/posts/Functional-requirements-va-non-functional-requirements?fbclid=IwAR3eBF8EPr_Cl_sfB8w6wOj_1kJAOLORnf3jlCllvP4QqcFWjEBdQ3knWGc](https://kipalog.com/posts/Functional-requirements-va-non-functional-requirements?fbclid=IwAR3eBF8EPr_Cl_sfB8w6wOj_1kJAOLORnf3jlCllvP4QqcFWjEBdQ3knWGc)
 
