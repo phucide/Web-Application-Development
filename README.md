@@ -65,5 +65,14 @@ Need content
 | ----------------------------------------------------------- | ------------------------------------------------------------------------- | 
 | The system response quickly to the user’s request.          | The system still lacks some functions of a real-life shopping system.     |
 | The system has friendly GUI, so it is easy to use.          | System doesn’t allow multimedia yet (videos, mp3 …).                      |
-| Admin can closely manage orders and customers.              | Spend much time for waiting account confirmation from the admin           |                                                      |
+| Admin can closely manage orders and customers.              | Spend much time for waiting account confirmation from the admin           |                             
+
+## 5.3 Future Work
+
+1. Add function that admin can upload product introduction video.
+2. Customer Customers can give their reviews of purchased products.
+3. Develop email account confirmation instead of confirming from the admin.
+4. Develop a dilivery system inside the shopping website.
+
+
 
