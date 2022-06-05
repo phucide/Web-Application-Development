@@ -74,5 +74,5 @@ Need content
 3. Develop email account confirmation instead of confirming from the admin.
 4. Develop a dilivery system inside the shopping website.
 
-
+# 6. References
 
