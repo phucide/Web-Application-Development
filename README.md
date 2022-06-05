@@ -59,5 +59,10 @@ Need content
 3.	The system allows Admin to view list of managed Customers and confirm Customers' account
 4.	The system allows Admin to search for a specific customer, add product and confirm orders.
 
+## 5.2 Strength and Weakness
 
+| FirstName     | LastName      | City     |
+| ------------- | ------------- | -------- |
+| John          | Test1         | NewYork  |
+| Bob           | Test2         | Toronto  |
 
