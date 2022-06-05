@@ -39,12 +39,20 @@ Tools: Visual Studio Code, Eclipse, GitHub to publish the team’s codes
 - Process transaction/payment 
 - Storing and managing all orders that make by customers
 - Reporting orders
+- Searching products
 - Display detailed information of products
 - Sorting list of products by user criteria
 - Logout
 
 ### 3.1.2 Requirement Analysis
-Need content
+The Web Application should give a friendly GUI for the users to interact.
+
+There are 3 types of user in this system: viewer, customer, and administrator
+- Viewer: can visit the web page and choose products to see its information(price, origin,...), but they cannot buy products or make orders.
+- Customer: which is user who has a valid account, they can view and by products.
+- Administrator: who manages(add, remove, update) the products and accepts the customer's registration.
+
+The users can click to the image of the products or search the products by name to see its information, or they can filter products based on some criteria(price, manufactuer,...). The users can give comments/reviews about the product or see others customers's comments/reviews.
 
 ### 3.1.3 Non-functional Requirements
 - Security
