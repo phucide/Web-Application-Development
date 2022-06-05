@@ -29,3 +29,22 @@ Programming language: HTML/ CSS/ Java Script
 Database management system: MySQL to export and import database
 
 Tools: Visual Studio Code, GitHub to publish the team’s codes
+
+# 3. SYSTEM DESIGN
+## 3.1. System Requirement Specification
+### 3.1.1. Functionnal Requirements
+Need content
+
+### 3.1.2 Requirement Analysis
+Need content
+
+### 3.1.3 Non-functional Requirements
+Need content
+
+## 3.2 System Design Specification
+### 3.2.1 Use-case Diagram
+![WebProject-Use case diagram drawio](https://user-images.githubusercontent.com/63244142/172037469-83beab2f-93e6-4fe5-9a89-4fba682b9858.png)
+
+### 3.2.2 Sequence Diagram
+![WebProject-Sequence Diagram drawio](https://user-images.githubusercontent.com/63244142/172037504-df06b251-40fc-4106-9620-ab22f9f27c0c.png)
+
