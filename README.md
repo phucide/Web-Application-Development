@@ -48,3 +48,16 @@ Need content
 ### 3.2.2 Sequence Diagram
 ![WebProject-Sequence Diagram drawio](https://user-images.githubusercontent.com/63244142/172037504-df06b251-40fc-4106-9620-ab22f9f27c0c.png)
 
+### 3.2.3 Class Diagram
+
+# 4. SYSTEM IMPLEMENTATION
+
+# 5. CONCLUSION AND DISCUSSION
+## 5.1 List of accomplished work
+1.	The system allows Customers to create, log in and change password 
+2.	The system allows Customers to view products, search product, add product to shopping cart and check out
+3.	The system allows Admin to view list of managed Customers and confirm Customers' account
+4.	The system allows Admin to search for a specific customer, add product and confirm orders.
+
+
+
