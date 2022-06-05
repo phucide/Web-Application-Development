@@ -70,7 +70,7 @@ Need content
 ## 5.3 Future Work
 
 1. Add function that admin can upload product introduction video.
-2. Customer Customers can give their reviews of purchased products.
+2. Customers can give their reviews of purchased products.
 3. Develop email account confirmation instead of confirming from the admin.
 4. Develop a dilivery system inside the shopping website.
 
