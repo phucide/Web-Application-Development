@@ -61,8 +61,9 @@ Need content
 
 ## 5.2 Strength and Weakness
 
-| FirstName     | LastName      | City     |
-| ------------- | ------------- | -------- |
-| John          | Test1         | NewYork  |
-| Bob           | Test2         | Toronto  |
+| Strength                                                    | Weakness                                                                  |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------- | 
+| The system response quickly to the user’s request.          | The system still lacks some functions of a real-life shopping system.     |
+| The system has friendly GUI, so it is easy to use.          | System doesn’t allow multimedia yet (videos, mp3 …).                      |
+| Admin can closely manage orders and customers.              |                                                                           |
 
