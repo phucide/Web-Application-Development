@@ -65,5 +65,5 @@ Need content
 | ----------------------------------------------------------- | ------------------------------------------------------------------------- | 
 | The system response quickly to the user’s request.          | The system still lacks some functions of a real-life shopping system.     |
 | The system has friendly GUI, so it is easy to use.          | System doesn’t allow multimedia yet (videos, mp3 …).                      |
-| Admin can closely manage orders and customers.              |                                                                           |
+| Admin can closely manage orders and customers.              | Spend much time for waiting account confirmation from the admin           |                                                      |
 
