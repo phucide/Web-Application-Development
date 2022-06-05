@@ -47,7 +47,14 @@ Tools: Visual Studio Code, Eclipse, GitHub to publish the team’s codes
 Need content
 
 ### 3.1.3 Non-functional Requirements
-Need content
+- Security
+- Response time
+- Throughput
+- Scalability
+- Availability
+- Maintainability
+- Reliability
+- Portability
 
 ## 3.2 System Design Specification
 ### 3.2.1 Use-case Diagram
