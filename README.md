@@ -73,29 +73,55 @@ When the order is made, the cusomter need to choose the method of payment(card,c
 ## 3.2 System Design Specification
 ### 3.2.1 Use-case Diagram
 ![WebProject-Use case diagram drawio](https://user-images.githubusercontent.com/63244142/172037469-83beab2f-93e6-4fe5-9a89-4fba682b9858.png)
-<h3 align="center"><b>Figure 3.1: Use-case Diagram</b></h3>
+<p align="center"><b>Figure 3.1: Use-case Diagram</b></p>
 
 
 
 ### 3.2.2 Sequence Diagram
 ![WebProject-Sequence Diagram drawio](https://user-images.githubusercontent.com/63244142/172037504-df06b251-40fc-4106-9620-ab22f9f27c0c.png)
-<h3 align="center"><b>Figure 3.2: Sequence Diagram</b></h3>
+<p align="center"><b>Figure 3.2: Sequence Diagram</b></p>
 
 
 
 ### 3.2.3 Entity-Relationship Diagram
 ![DatabaseDesign drawio](https://user-images.githubusercontent.com/69331153/172085589-be72fd29-8603-4793-b68f-ec8d97cfaa47.png)
-<h3 align="center"><b>Figure 3.3: Entity-Relationship Diagram</b></h3>
+<p align="center"><b>Figure 3.3: Entity-Relationship Diagram</b></p>
 
 
 
 ### 3.2.4 Relational-Schema Diagram
 ![image (2)](https://user-images.githubusercontent.com/69331153/172085838-a99212ca-1afa-4259-a996-3fe99ebdeb1e.png)
-<h3 align="center"><b>Figure 3.4: Relational-Schema Diagram</b></h3>
+<p align="center"><b>Figure 3.4: Relational-Schema Diagram</b></p>
 
 
 
 # 4. SYSTEM IMPLEMENTATION
+<p align="center"><b>Figure 4.1: Login</b></p><br><br>
+<p align="center"><b>Figure 4.2: Register</b></p><br><br>
+
+![image](https://user-images.githubusercontent.com/69331153/172092459-9550775b-b76b-4e0e-b0cc-353c0683b557.png)
+<p align="center"><b>Figure 4.3: Home-page</b></p><br><br>
+
+
+When we click "Shop Now" button, it will go to "Best Seller" section
+![image](https://user-images.githubusercontent.com/69331153/172092645-339ca1c4-6769-4474-8e93-b7e413fe9af5.png)
+<p align="center"><b>Figure 4.4: Home-page:"Best Seller section"</b></p><br><br>
+
+
+![image](https://user-images.githubusercontent.com/69331153/172093005-7337dff9-91ad-4176-89c3-1f43539ca94b.png)
+<p align="center"><b>Figure 4.5: All products page-1</b></p><br><br>
+
+
+![image](https://user-images.githubusercontent.com/69331153/172093145-3bdb7b19-210b-4eec-a4ae-64f2336a6b26.png)
+<p align="center"><b>Figure 4.6: All products page-2</b></p><br><br>
+
+
+![image](https://user-images.githubusercontent.com/69331153/172093554-0e121f11-deb8-41d0-9336-b29f5f643bd7.png)
+<p align="center"><b>Figure 4.7: Detailed information of product</b></p><br><br>
+
+![image](https://user-images.githubusercontent.com/69331153/172093699-70566052-8cc1-4937-bb47-e53d843dd8ab.png)
+<p align="center"><b>Figure 4.8: Successful message when adding product to cart</b></p><br><br>
+
 
 # 5. CONCLUSION AND DISCUSSION
 ## 5.1 List of accomplished work
