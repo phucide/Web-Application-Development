@@ -47,12 +47,14 @@ Tools: Visual Studio Code, Eclipse, GitHub to publish the team’s codes
 ### 3.1.2 Requirement Analysis
 The Web Application should give a friendly GUI for the users to interact.
 
+In order to buy the products, the customers need to register an account of our web, they can register by an email or facebook account. After registration, they need to wait the admin of the web to accept the account.
+
 There are 3 types of user in this system: viewer, customer, and administrator
 - Viewer: can visit the web page and choose products to see its information(price, origin,...), but they cannot buy products or make orders.
 - Customer: which is user who has a valid account, they can view and by products.
 - Administrator: who manages(add, remove, update) the products and accepts the customer's registration.
 
-The users can click to the image of the products or search the products by name to see its information, or they can filter products based on some criteria(price, manufactuer,...). The users can give comments/reviews about the product or see others customers's comments/reviews.
+The admin will manage a list of products which they want to sell, they can add, remove or update the information of the product, they can also search information of the customer and confirm the order. The users can click to the image of the products or search the products by name to see its information, or they can filter products based on some criteria(price, manufactuer,...). The users can give comments/reviews about the product or see others customers's comments/reviews.
 
 To more convenient, the users can add products which they want to by into their cart, they also be able to remove it from a cart. When the products are added into cart, a successful message is sent to the users to notify them, when they remove the products from the cart, the page is loaded immediately to display the remaining products of the cart.
 
