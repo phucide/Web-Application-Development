@@ -32,7 +32,7 @@ Tools: Visual Studio Code, Eclipse, GitHub to publish the team’s codes
 
 # 3. SYSTEM DESIGN
 ## 3.1. System Requirement Specification
-### 3.1.1. Functionnal Requirements
+### 3.1.1. Functional Requirements
 - Registration, login and authentication
 - Keeping track of all records of products
 - Keeping track of all products of customer's cart and order
