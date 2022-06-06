@@ -138,7 +138,7 @@ When we click "Shop Now" button, it will go to "Best Seller" section
 
 # 5. CONCLUSION AND DISCUSSION
 ## 5.1 List of accomplished work
-1.	The system allows Customers to create an account, and logIn 
+1.	The system allows Customers to create an account, and logIn.
 2.	The system allows Customers to view products, add or remove product from shopping cart and check out.
 3.	The system allows Admin to view list of managed Customers and confirm Customers' account.
 4.	The system allows Admin to search for a specific customer, add product
@@ -157,7 +157,7 @@ When we click "Shop Now" button, it will go to "Best Seller" section
 1. Add function that admin can upload product introduction video.
 2. Customers can give their reviews of purchased products.
 3. Develop email account confirmation instead of confirming from the admin.
-4. Develop a dilivery system inside the shopping website.
+4. Develop a delivery system inside the shopping website.
 5. Add function that customer can make order, and develop the reporting order function.
 
 # 6. References
