@@ -99,9 +99,9 @@ When the order is made, the cusomter need to choose the method of payment(card,c
 
 # 5. CONCLUSION AND DISCUSSION
 ## 5.1 List of accomplished work
-1.	The system allows Customers to create, log in and change password 
-2.	The system allows Customers to view products, search product, add product to shopping cart and check out
-3.	The system allows Admin to view list of managed Customers and confirm Customers' account
+1.	The system allows Customers to create, log in and change password. 
+2.	The system allows Customers to view products, search product, add product to shopping cart and check out.
+3.	The system allows Admin to view list of managed Customers and confirm Customers' account.
 4.	The system allows Admin to search for a specific customer, add product and confirm orders.
 
 ## 5.2 Strength and Weakness
