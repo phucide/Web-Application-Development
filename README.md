@@ -165,5 +165,4 @@ When we click "Shop Now" button, it will go to "Best Seller" section
 - [https://core.ac.uk/download/pdf/5165156.pdf?fbclid=IwAR3RcbA0Hp41AuWzNVWAtLM1eWXjmjwvnRIrngihqjv6pZVk-esGYubKGRI](https://core.ac.uk/download/pdf/5165156.pdf?fbclid=IwAR3RcbA0Hp41AuWzNVWAtLM1eWXjmjwvnRIrngihqjv6pZVk-esGYubKGRI)
 - [https://projectsinventory.com/functional-requirement-of-online-shopping-system/?fbclid=IwAR3DcQdVadUk5YkaKOMceum5gyMw0HMs02IG2yZx2RDoEsJWL6cG_J7BsYs](https://projectsinventory.com/functional-requirement-of-online-shopping-system/?fbclid=IwAR3DcQdVadUk5YkaKOMceum5gyMw0HMs02IG2yZx2RDoEsJWL6cG_J7BsYs)
 - [https://kipalog.com/posts/Functional-requirements-va-non-functional-requirements?fbclid=IwAR3eBF8EPr_Cl_sfB8w6wOj_1kJAOLORnf3jlCllvP4QqcFWjEBdQ3knWGc](https://kipalog.com/posts/Functional-requirements-va-non-functional-requirements?fbclid=IwAR3eBF8EPr_Cl_sfB8w6wOj_1kJAOLORnf3jlCllvP4QqcFWjEBdQ3knWGc)
-
--[https://www.youtube.com/watch?v=yQimoqo0-7g&list=RDCMUCkjoHfkLEy7ZT4bA2myJ8xA&start_radio=1&rv=yQimoqo0-7g&t=316](https://www.youtube.com/watch?v=yQimoqo0-7g&list=RDCMUCkjoHfkLEy7ZT4bA2myJ8xA&start_radio=1&rv=yQimoqo0-7g&t=316)
+- [https://www.youtube.com/watch?v=yQimoqo0-7g&list=RDCMUCkjoHfkLEy7ZT4bA2myJ8xA&start_radio=1&rv=yQimoqo0-7g&t=316](https://www.youtube.com/watch?v=yQimoqo0-7g&list=RDCMUCkjoHfkLEy7ZT4bA2myJ8xA&start_radio=1&rv=yQimoqo0-7g&t=316)
