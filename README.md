@@ -73,15 +73,23 @@ When the order is made, the cusomter need to choose the method of payment(card,c
 ## 3.2 System Design Specification
 ### 3.2.1 Use-case Diagram
 ![WebProject-Use case diagram drawio](https://user-images.githubusercontent.com/63244142/172037469-83beab2f-93e6-4fe5-9a89-4fba682b9858.png)
+<p align="center"><b>Figure 3.1: Use-case Diagram</b></p>
+
 
 ### 3.2.2 Sequence Diagram
 ![WebProject-Sequence Diagram drawio](https://user-images.githubusercontent.com/63244142/172037504-df06b251-40fc-4106-9620-ab22f9f27c0c.png)
+<p align="center"><b>Figure 3.2: Sequence Diagram</b></p>
+
 
 ### 3.2.3 Entity-Relationship Diagram
 ![DatabaseDesign drawio](https://user-images.githubusercontent.com/69331153/172085589-be72fd29-8603-4793-b68f-ec8d97cfaa47.png)
+<p align="center"><b>Figure 3.3: Entity-Relationship Diagram</b></p>
+
 
 ### 3.2.4 Relational-Schema Diagram
 ![image (2)](https://user-images.githubusercontent.com/69331153/172085838-a99212ca-1afa-4259-a996-3fe99ebdeb1e.png)
+<p align="center"><b>Figure 3.1: Relational-Schema Diagram</b></p>
+
 
 # 4. SYSTEM IMPLEMENTATION
 
