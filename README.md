@@ -77,7 +77,9 @@ When the order is made, the cusomter need to choose the method of payment(card,c
 ### 3.2.2 Sequence Diagram
 ![WebProject-Sequence Diagram drawio](https://user-images.githubusercontent.com/63244142/172037504-df06b251-40fc-4106-9620-ab22f9f27c0c.png)
 
-### 3.2.3 Class Diagram
+### 3.2.3 Entity-Relationship Diagram
+
+### 3.2.4 Relational-Schema Diagram
 
 # 4. SYSTEM IMPLEMENTATION
 
