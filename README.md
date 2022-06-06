@@ -81,6 +81,7 @@ When the order is made, the cusomter need to choose the method of payment(card,c
 ![DatabaseDesign drawio](https://user-images.githubusercontent.com/69331153/172085589-be72fd29-8603-4793-b68f-ec8d97cfaa47.png)
 
 ### 3.2.4 Relational-Schema Diagram
+![image (2)](https://user-images.githubusercontent.com/69331153/172085838-a99212ca-1afa-4259-a996-3fe99ebdeb1e.png)
 
 # 4. SYSTEM IMPLEMENTATION
 
