@@ -138,10 +138,11 @@ When we click "Shop Now" button, it will go to "Best Seller" section
 
 # 5. CONCLUSION AND DISCUSSION
 ## 5.1 List of accomplished work
-1.	The system allows Customers to create, log in and change password. 
-2.	The system allows Customers to view products, search product, add product to shopping cart and check out.
+1.	The system allows Customers to create an account, and logIn 
+2.	The system allows Customers to view products, add or remove product from shopping cart and check out.
 3.	The system allows Admin to view list of managed Customers and confirm Customers' account.
-4.	The system allows Admin to search for a specific customer, add product and confirm orders.
+4.	The system allows Admin to search for a specific customer, add product
+5.	The system allows user to filter products based on some criteria.
 
 ## 5.2 Strength and Weakness
 
@@ -157,6 +158,7 @@ When we click "Shop Now" button, it will go to "Best Seller" section
 2. Customers can give their reviews of purchased products.
 3. Develop email account confirmation instead of confirming from the admin.
 4. Develop a dilivery system inside the shopping website.
+5. Add function that customer can make order, and develop the reporting order function.
 
 # 6. References
 - [https://www.slideshare.net/gajapandiyan/online-shopping-16603063?fbclid=IwAR3DcQdVadUk5YkaKOMceum5gyMw0HMs02IG2yZx2RDoEsJWL6cG_J7BsYs](https://www.slideshare.net/gajapandiyan/online-shopping-16603063?fbclid=IwAR3DcQdVadUk5YkaKOMceum5gyMw0HMs02IG2yZx2RDoEsJWL6cG_J7BsYs)
@@ -164,3 +166,4 @@ When we click "Shop Now" button, it will go to "Best Seller" section
 - [https://projectsinventory.com/functional-requirement-of-online-shopping-system/?fbclid=IwAR3DcQdVadUk5YkaKOMceum5gyMw0HMs02IG2yZx2RDoEsJWL6cG_J7BsYs](https://projectsinventory.com/functional-requirement-of-online-shopping-system/?fbclid=IwAR3DcQdVadUk5YkaKOMceum5gyMw0HMs02IG2yZx2RDoEsJWL6cG_J7BsYs)
 - [https://kipalog.com/posts/Functional-requirements-va-non-functional-requirements?fbclid=IwAR3eBF8EPr_Cl_sfB8w6wOj_1kJAOLORnf3jlCllvP4QqcFWjEBdQ3knWGc](https://kipalog.com/posts/Functional-requirements-va-non-functional-requirements?fbclid=IwAR3eBF8EPr_Cl_sfB8w6wOj_1kJAOLORnf3jlCllvP4QqcFWjEBdQ3knWGc)
 
+-[https://www.youtube.com/watch?v=yQimoqo0-7g&list=RDCMUCkjoHfkLEy7ZT4bA2myJ8xA&start_radio=1&rv=yQimoqo0-7g&t=316](https://www.youtube.com/watch?v=yQimoqo0-7g&list=RDCMUCkjoHfkLEy7ZT4bA2myJ8xA&start_radio=1&rv=yQimoqo0-7g&t=316)
