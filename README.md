@@ -54,6 +54,10 @@ There are 3 types of user in this system: viewer, customer, and administrator
 
 The users can click to the image of the products or search the products by name to see its information, or they can filter products based on some criteria(price, manufactuer,...). The users can give comments/reviews about the product or see others customers's comments/reviews.
 
+To more convenient, the users can add products which they want to by into their cart, they also be able to remove it from a cart. When the products are added into cart, a successful message is sent to the users to notify them, when they remove the products from the cart, the page is loaded immediately to display the remaining products of the cart.
+
+When the order is made, the cusomter need to choose the method of payment(card,cash,...), after the order is made successfully, a report of order is sent to the admin who will process and schedule to delivery the order, and a bill of order is also sent to the customer's email to inform them
+
 ### 3.1.3 Non-functional Requirements
 - Security
 - Response time
