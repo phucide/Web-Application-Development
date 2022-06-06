@@ -122,6 +122,19 @@ When we click "Shop Now" button, it will go to "Best Seller" section
 ![image](https://user-images.githubusercontent.com/69331153/172093699-70566052-8cc1-4937-bb47-e53d843dd8ab.png)
 <p align="center"><b>Figure 4.8: Successful message when adding product to cart</b></p><br><br>
 
+![image](https://user-images.githubusercontent.com/69331153/172093945-198a9f9a-989f-4a6f-b17d-8ad3469fa6e3.png)
+<p align="center"><b>Figure 4.9: Cart page</b></p><br><br>
+
+![image](https://user-images.githubusercontent.com/69331153/172094336-e13a0e59-2836-4391-8587-f4f0403d3f75.png)
+<p align="center"><b>Figure 4.10: Remove product from Cart</b></p><br><br>
+
+![image](https://user-images.githubusercontent.com/69331153/172094443-d75e0dfd-ff13-45ff-9150-3743a8c72c96.png)
+<p align="center"><b>Figure 4.11: About-Us page</b></p><br><br>
+
+![image](https://user-images.githubusercontent.com/69331153/172094522-c0adeace-d933-42c4-9bfc-13a2b676ff78.png)
+<p align="center"><b>Figure 4.12: Contact page</b></p><br><br>
+
+
 
 # 5. CONCLUSION AND DISCUSSION
 ## 5.1 List of accomplished work
