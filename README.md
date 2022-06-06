@@ -24,7 +24,7 @@ The scope of this project will be limited to the following:
 The platform is referenced by the design and function of famous websites such as Amazon, eBay, Shopee,…
 
 ## 2.2. Platform and Tool Review
-Programming language: HTML/ CSS/ Java Script
+Programming language: HTML/ CSS/ Java Script/ JSP/ Servlet
 
 Database management system: MySQL to export and import database
 
