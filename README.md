@@ -88,7 +88,7 @@ When the order is made, the cusomter need to choose the method of payment(card,c
 
 ### 3.2.4 Relational-Schema Diagram
 ![image (2)](https://user-images.githubusercontent.com/69331153/172085838-a99212ca-1afa-4259-a996-3fe99ebdeb1e.png)
-<p align="center"><b>Figure 3.1: Relational-Schema Diagram</b></p>
+<p align="center"><b>Figure 3.4: Relational-Schema Diagram</b></p>
 
 
 # 4. SYSTEM IMPLEMENTATION
