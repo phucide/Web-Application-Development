@@ -150,7 +150,7 @@ When we click "Shop Now" button, it will go to "Best Seller" section
 | ----------------------------------------------------------- | ------------------------------------------------------------------------- | 
 | The system response quickly to the user’s request.          | The system still lacks some functions of a real-life shopping system.     |
 | The system has friendly GUI, so it is easy to use.          | System doesn’t allow multimedia yet (videos, mp3 …).                      |
-| Admin can closely manage orders and customers.              | Spend much time for waiting account confirmation from the admin           |                             
+| Admin can closely manage products and customers.            | Spend much time for waiting account confirmation from the admin           |                             
 
 ## 5.3 Future Work
 
