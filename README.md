@@ -96,7 +96,10 @@ When the order is made, the cusomter need to choose the method of payment(card,c
 
 
 # 4. SYSTEM IMPLEMENTATION
+![image](https://user-images.githubusercontent.com/69331657/172921782-2876db78-7fdf-4b6b-a1d4-134e2b2c4395.png)
 <p align="center"><b>Figure 4.1: Login</b></p><br><br>
+
+![image](https://user-images.githubusercontent.com/69331657/172921626-0be1b7bd-f3c9-4603-9520-e4ecd36090bd.png)
 <p align="center"><b>Figure 4.2: Register</b></p><br><br>
 
 ![image](https://user-images.githubusercontent.com/69331153/172092459-9550775b-b76b-4e0e-b0cc-353c0683b557.png)
