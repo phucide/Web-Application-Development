@@ -95,7 +95,7 @@ public class DAO {
 				accounts.add(new Account(rs.getString(1), rs.getString(2), rs.getString(3)));
 			}
 		} catch (Exception e) {
-			// TODO: handle exception
+			
 		}
 		return accounts;
     }
