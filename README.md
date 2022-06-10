@@ -143,7 +143,7 @@ When we click "Shop Now" button, it will go to "Best Seller" section
 ## 5.1 List of accomplished work
 1.	The system allows Customers to create an account, and logIn.
 2.	The system allows Customers to view products, add or remove product from shopping cart and check out.
-3.	The system allows Admin to view list of managed Customers and confirm Customers' account.
+3.	The system allows Admin to view list of managed Customers.
 4.	The system allows Admin to search for a specific customer, add product
 5.	The system allows user to filter products based on some criteria.
 
