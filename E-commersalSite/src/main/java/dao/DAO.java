@@ -218,7 +218,7 @@ public class DAO {
 				categories.add(new Category(rs.getInt(1), rs.getString(2)));
 			}
 		} catch (Exception e) {
-			// TODO: handle exception
+			
 		}
 		return categories;
     }
